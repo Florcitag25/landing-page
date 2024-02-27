@@ -1,0 +1,32 @@
+body{
+    font-family: "Roboto", Arial, Helvetica, sans-serif;
+    height: 100vh;
+    margin: 0;
+}
+
+.container1{
+    align-items: center;
+    background-color: #1f2937;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 150px 45px 150px;
+
+}
+
+.logo{
+    color:#f9faf8;
+    font-size:24px;
+    font-weight: bold;
+}
+
+a{
+    color: #e5e7eb;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+.container11{
+    align-items: center;
+    display: flex;
+    gap: 25px;
+}
