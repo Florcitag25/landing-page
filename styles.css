@@ -13,8 +13,8 @@ body{
     background-color: #1f2937;
     display: flex;
     gap:455px;
-    justify-content: center;
-    padding: 30px;
+    justify-content: space-between;
+    padding: 30px 300px;
 
 }
 
@@ -58,9 +58,9 @@ button{
 .presentation{
     background-color: #1f2937;
     display: flex;
-    gap:50px;
-    justify-content: center;
-    padding: 70px;
+    gap: 50px;
+    justify-content: space-between;
+    padding: 30px 300px;
 }
 
 .presentation-text{
@@ -76,7 +76,5 @@ img{
 .container2{
     display: flex;
     flex-direction: column;
-    width:500px;
-    justify-content: flex-start;
     align-items: flex-start;
 }
